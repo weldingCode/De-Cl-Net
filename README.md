@@ -1,3 +1,10 @@
+<style>
+img{
+    width: 60%;
+    padding-left: 20%;
+}
+</style>
+
 # De-Cl-Net
 ## The source code will be publicly released upon paper acceptance.🤝
 ![image](https://github.com/weldingCode/De-Cl-Net/blob/main/result.png)

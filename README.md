@@ -6,4 +6,4 @@
 
 ## Deploy the object detection model to the mobile phone
 
-<img src="https://github.com/weldingCode/De-Cl-Net/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240729210211.jpg" width="300" height="500" />
+<img src="https://github.com/weldingCode/De-Cl-Net/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240729210211.jpg" width="300" height="400" />
